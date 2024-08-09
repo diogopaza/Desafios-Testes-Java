@@ -10,4 +10,7 @@
   <li>der, eulb, kcalb</li>
 </ol>
 
+<p>Solucao: a primeira parte do codigo cria uma lista de <emph>string</emph> usando <emph>Arrays.asList</emph> ou seja uma lista parcialmente mutavel, que nao pode adicionar nem remover elementos.</p>
+<p>O codigo cria uma <emph>Stream</emph> (fluxo - uma <emph>Stream</emph> é uma sequencia de elementos que oferece varias opcoes que podem ser aplicadas de maneira declarativa) da lista, e logo apos usa o metodo <emph>filter</emph>, este retorna apenas os valores da lista menores que 6 (no nosso exemplo red,black,blue)</p>
+
 <hr>
