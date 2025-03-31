@@ -1,6 +1,6 @@
 # Desafios-Testes-Java
 
-<h4>Exercicio 1</h4>
+<h3>Exercicio 1</h3>
 <p>Esse desafio envolve a API de Stream do Java para executar operações de filtragem, ordenação e mapeamento e também expressões lambda para a manipulação de coleções.</p>
 <p>Ao final pede-se qual opção abaixo está correta:</p>
 <ol>
@@ -15,5 +15,12 @@
 <p>O proximo metodo e o <emph>sorted</emph>, este ira ordenar a <emph>Stream</emph>, no exercicio e retornado e ordenado pelo tamanho da <emph>string</emph> ao contrario, ou seja em ordem decresente. Retornando black, blue, red.</p>
 <p>O proximo comando a ser usado e o <emph>map</emph>, este retorna uma nova <emph>Stream</emph>. Neste exercicio sera retornada uma nova <emph>Stream</emph> de um <emph>new StringBuilder(cor).reverse().toString()</emph>. Cada <emph>string</emph> da lista tera seus caracteres invertidos, tendo como resultado = kcalb, eulb, der. Ou seja resposta 3 do exercicio 1.</p>
 
-
 <hr>
+<h3>Exercicio 2</h3>
+<p>Algoritmo para extrair numeros SEM duplicados de um array de Inteiros
+
+
+</p>
+
+
+
