@@ -19,8 +19,10 @@
 <h3>Exercicio 2</h3>
 <p>Algoritmo para extrair numeros SEM duplicados de um array de Inteiros
 
-
 </p>
+
+<h3>Exercicio 3</h3>
+<p>Dado um array de numeros inteiros e um inteiro alvo, retorne os indices dos dois numeros tais que somem o alvo. Voce pode assumir que cada entrada tera uma solucao exata, e voce nao pode usar o mesmo elemento duas vezes. Voce pode retornar a resposta em qualquer ordem. </p>
 
 
 
