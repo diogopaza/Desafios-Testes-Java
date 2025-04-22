@@ -1,7 +1,7 @@
 fun main() {
 
     println("Iniciando")
-    val meuArray= arrayOf(3,3,4,5,5,6)
+    val meuArray= arrayOf(1,2, 2, 2, 2, 3, 5, 5, 9, 15, 15)
     var novoArray = ArrayList<Int>()
     novoArray.add(meuArray[0])
 
